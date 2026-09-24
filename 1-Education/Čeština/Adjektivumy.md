@@ -7,6 +7,7 @@ tags:
 
 ---
 
+
 | Maskulinum | Femininum   | Neutrum       | Měkke    |
 | ---------- | ----------- | ------------- | -------- |
 | Jaký?      | Jaká?       | Jaké?         | M, F a N |
