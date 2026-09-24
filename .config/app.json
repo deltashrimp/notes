@@ -1,0 +1,12 @@
+{
+  "settingsPopoutWindow": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "openBehavior": "file:README.md.md",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "0-media",
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
+}
